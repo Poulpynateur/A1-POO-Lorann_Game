@@ -1,6 +1,6 @@
 # Projet POO - A1
 
-Jeu Java crée en première années à l’EXIA CESI, projet de 14 jours fait par 4 personnes.
+Jeu Java crée en première années à l’EXIA CESI.
 Thématique : Création d'un jeu basé sur [lorann](http://dcmoto.free.fr/programmes/lorann/index.html).
 
 Ce projet a avant tout un but pédagogique, il est composé :
