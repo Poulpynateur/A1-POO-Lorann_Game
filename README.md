@@ -3,6 +3,8 @@
 Jeu Java crée en première années à l’EXIA CESI.
 Thématique : Création d'un jeu basé sur [lorann](http://dcmoto.free.fr/programmes/lorann/index.html).
 
+![preview](preview.PNG)
+
 Ce projet a avant tout un but pédagogique, il est composé :
 * MVC basé sur des modules mavens
 * JavaDoc complète
